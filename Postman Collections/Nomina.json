@@ -15358,7 +15358,7 @@
 			"id": "372d2789-745e-48c5-b368-b6bb664e18db"
 		},
 		{
-			"name": "👷‍♂️ Andi Pruebas (Indefinido 15nal)",
+			"name": "👷‍♂️ Andi Pruebas (Practicante mensual pasa Fijo mensual)",
 			"item": [
 				{
 					"name": "1. Preparar data",
@@ -15932,7 +15932,7 @@
 					"name": "2. Ejecutar acciones",
 					"item": [
 						{
-							"name": "NPG3 Recalcula valores",
+							"name": "NPG5 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -15955,7 +15955,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG3\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG5\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -16038,7 +16038,7 @@
 							]
 						},
 						{
-							"name": "NPG3 Procesar",
+							"name": "NPG5 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -16098,7 +16098,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG3\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG5\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -16181,7 +16181,7 @@
 							]
 						},
 						{
-							"name": "NPG4 Recalcula valores",
+							"name": "NPG35 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -16204,7 +16204,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG4\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG35\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -16287,7 +16287,7 @@
 							]
 						},
 						{
-							"name": "NPG4 Procesar",
+							"name": "NPG35 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -16347,7 +16347,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG4\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG35\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -16430,7 +16430,7 @@
 							]
 						},
 						{
-							"name": "NPG31 Recalcula valores",
+							"name": "NPG36 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -16453,7 +16453,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG31\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG36\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
