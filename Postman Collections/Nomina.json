@@ -9003,7 +9003,7 @@
 							]
 						},
 						{
-							"name": "NPG20 Recalcula valores",
+							"name": "NPG29 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -9026,7 +9026,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG20\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG29\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9109,7 +9109,7 @@
 							]
 						},
 						{
-							"name": "NPG20 Procesar",
+							"name": "NPG29 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -9169,7 +9169,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG20\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG29\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9252,7 +9252,7 @@
 							]
 						},
 						{
-							"name": "NPG21 Recalcula valores",
+							"name": "NPG30 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -9275,7 +9275,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG21\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG30\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9358,7 +9358,7 @@
 							]
 						},
 						{
-							"name": "NPG21 Procesar",
+							"name": "NPG30 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -9418,7 +9418,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG21\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG30\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9501,7 +9501,7 @@
 							]
 						},
 						{
-							"name": "NPG75 Recalcula valores",
+							"name": "NPG76 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -9524,7 +9524,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG75\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG76\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9607,7 +9607,7 @@
 							]
 						},
 						{
-							"name": "NPG75 Procesar",
+							"name": "NPG76 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -9667,7 +9667,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG75\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG76\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9750,7 +9750,7 @@
 							]
 						},
 						{
-							"name": "NPG304 Recalcula valores",
+							"name": "NPG278 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -9773,7 +9773,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG304\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG278\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9856,7 +9856,7 @@
 							]
 						},
 						{
-							"name": "NPG304 Procesar",
+							"name": "NPG278 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -9916,7 +9916,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG304\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG278\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -9999,7 +9999,7 @@
 							]
 						},
 						{
-							"name": "NPG305 Recalcula valores",
+							"name": "NPG281 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -10022,7 +10022,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG305\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG281\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -10105,7 +10105,7 @@
 							]
 						},
 						{
-							"name": "NPG305 Procesar",
+							"name": "NPG281 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -10177,504 +10177,6 @@
 							"response": [
 								{
 									"id": "92a50858-bfbd-4fb1-bb2a-b91f96d53902",
-									"name": "Procesar operación",
-									"originalRequest": {
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"inumoper\":\"{{ULTIMOINUMOPER}}\",\r\n                    \"itdoper\": \"NOM4\"\r\n                }\r\n            ]            \r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
-										{
-											"key": "Connection",
-											"value": "close"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json"
-										},
-										{
-											"key": "Content-Length",
-											"value": "3039"
-										},
-										{
-											"key": "Date",
-											"value": "Tue, 26 Sep 2023 15:41:20 GMT"
-										},
-										{
-											"key": "is-date-in",
-											"value": "2023-09-26T10:41:20.291-05:00"
-										},
-										{
-											"key": "access-control-allow-origin",
-											"value": "*"
-										},
-										{
-											"key": "access-control-allow-headers",
-											"value": "If-Modified-Since,Pragma"
-										},
-										{
-											"key": "Access-Control-Allow-Methods",
-											"value": "GET, POST, PUT, DELETE"
-										},
-										{
-											"key": "Pragma",
-											"value": "dssession=981415.248493.25834,dssessionexpires=1200000"
-										},
-										{
-											"key": "is-date-out",
-											"value": "2023-09-26T10:41:20.418-05:00"
-										},
-										{
-											"key": "is-timeserver",
-											"value": "127"
-										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"result\": [\n        {\n            \"encabezado\": {\n                \"resultado\": \"true\",\n                \"imensaje\": \"\",\n                \"mensaje\": \"\",\n                \"tiempo\": \"106\",\n                \"version\": \"1\"\n            },\n            \"respuesta\": {\n                \"datos\": {\n                    \"resultado\": \"T\",\n                    \"errores\": \"0\",\n                    \"advertencias\": \"8\",\n                    \"bitacora\": \"<body bgcolor=\\\"#CCCCCC\\\"><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Verificación . . .</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\"></span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Deducción Aporte salud empleado: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Deducción Aporte pensión empleado: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes pensión empleador: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes salud empleador: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes ARL: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes Cajas Compensación Familiar: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aporte pensión empleado financiada por ausencia no remunerad: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado la cantidad para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Proceso . . .</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\"></span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Forma de pago</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Se detectaron 8 inconsistencias.</span></font><br><br></body>\",\n                    \"qoprsok\": \"1\"\n                }\n            }\n        }\n    ]\n}"
-								}
-							]
-						},
-						{
-							"name": "NPG306 Recalcula valores",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"id": "f3e6cc6b-86e1-4801-b6b2-9814618ee4be",
-										"exec": [
-											""
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"id": "b48e52b8-607b-45b7-86ff-7e44da2fed20",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG306\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-							},
-							"response": [
-								{
-									"id": "84f5b780-38b5-4c13-a0f4-d8ede1dcb9a5",
-									"name": "Recalculo de operacion",
-									"originalRequest": {
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CARGARYGRABARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"inumoper\":\"{{ULTIMOINUMOPER}}\",\r\n                    \"itdoper\": \"NOM4\"\r\n                }\r\n            ]            \r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
-										{
-											"key": "Connection",
-											"value": "close"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json"
-										},
-										{
-											"key": "Content-Length",
-											"value": "8421"
-										},
-										{
-											"key": "Date",
-											"value": "Wed, 27 Sep 2023 15:38:55 GMT"
-										},
-										{
-											"key": "is-date-in",
-											"value": "2023-09-27T10:38:50.239-05:00"
-										},
-										{
-											"key": "access-control-allow-origin",
-											"value": "*"
-										},
-										{
-											"key": "access-control-allow-headers",
-											"value": "If-Modified-Since,Pragma"
-										},
-										{
-											"key": "Access-Control-Allow-Methods",
-											"value": "GET, POST, PUT, DELETE"
-										},
-										{
-											"key": "Pragma",
-											"value": "dssession=611256.33783.734275,dssessionexpires=1200000"
-										},
-										{
-											"key": "is-date-out",
-											"value": "2023-09-27T10:38:55.492-05:00"
-										},
-										{
-											"key": "is-timeserver",
-											"value": "5253"
-										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"result\": [\n        {\n            \"encabezado\": {\n                \"resultado\": \"true\",\n                \"imensaje\": \"\",\n                \"mensaje\": \"\",\n                \"tiempo\": \"5223\",\n                \"version\": \"1\"\n            },\n            \"respuesta\": {\n                \"datos\": {\n                    \"resultado\": {\n                        \"encabezado\": {\n                            \"tdetalle\": \"Pago nómina mes 12 de 2022\",\n                            \"itdoper\": \"NOM4\",\n                            \"snumsop\": \"NPG47\",\n                            \"fsoport\": \"12/27/2022\",\n                            \"iccbase\": \"\",\n                            \"imoneda\": \"170\",\n                            \"banulada\": \"F\",\n                            \"blocal\": \"T\",\n                            \"bniif\": \"T\",\n                            \"svaloradic1\": \"\",\n                            \"svaloradic2\": \"\",\n                            \"svaloradic3\": \"\",\n                            \"svaloradic4\": \"\",\n                            \"svaloradic5\": \"\",\n                            \"svaloradic6\": \"\",\n                            \"svaloradic7\": \"\",\n                            \"svaloradic8\": \"\",\n                            \"svaloradic9\": \"\",\n                            \"svaloradic10\": \"\",\n                            \"svaloradic11\": \"\",\n                            \"svaloradic12\": \"\",\n                            \"fecha1adic\": \"12/30/1899\",\n                            \"fecha2adic\": \"12/30/1899\",\n                            \"fecha3adic\": \"12/30/1899\",\n                            \"datosaddin\": \"\",\n                            \"fcreacion\": \"12/27/2022\",\n                            \"fultima\": \"09/26/2023\",\n                            \"fprocesam\": \"09/27/2023 10:31:34.836\",\n                            \"iusuario\": \"SCALLE\",\n                            \"iusuarioult\": \"ADMIN\",\n                            \"isucursal\": \"\",\n                            \"inumoperultimp\": \"\",\n                            \"bespadre\": false,\n                            \"bconfirmaenviofe\": false,\n                            \"accionesalgrabar\": \"\",\n                            \"iemp\": \"1\",\n                            \"inumoper\": \"1204\",\n                            \"itdsop\": \"750\",\n                            \"inumsop\": \"47\",\n                            \"iclasifop\": \"0\",\n                            \"iprocess\": \"0\",\n                            \"inumoperpadre\": \"0\",\n                            \"mtotaloperacion\": \"663671.86\"\n                        },\n                        \"datosprincipales\": {\n                            \"init\": \"14856296\",\n                            \"icontrato\": \"CTR-002\",\n                            \"fini\": \"2022-12-16T00:00:00.000Z\",\n                            \"ffin\": \"2022-12-31T00:00:00.000Z\",\n                            \"qregabonocxc\": \"0\"\n                        },\n                        \"listaabonoscxc\": [],\n                        \"conceptos\": [\n                            {\n                                \"iconceptonomina\": \"SALARIO\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"10\",\n                                \"itdcomportamiento\": \"1\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"1\"\n                            },\n                            {\n                                \"iconceptonomina\": \"AUX_LEG_TR\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"4686.86666666667\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"20\",\n                                \"itdcomportamiento\": \"1\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"2\"\n                            },\n                            {\n                                \"iconceptonomina\": \"INT_CESAN\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"360\",\n                                \"mvalorbase\": \"480.202\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"172872.72\",\n                                \"iconceptodian\": \"170\",\n                                \"itdcomportamiento\": \"2\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"3\"\n                            },\n                            {\n                                \"iconceptonomina\": \"CESANTIAS\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"1440606\",\n                                \"iconceptodian\": \"31000\",\n                                \"itdcomportamiento\": \"2\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"4\"\n                            },\n                            {\n                                \"iconceptonomina\": \"DTO_SALUD\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"460\",\n                                \"itdcomportamiento\": \"3\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"5\"\n                            },\n                            {\n                                \"iconceptonomina\": \"DTO_PENS\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"470\",\n                                \"itdcomportamiento\": \"3\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"6\"\n                            },\n                            {\n                                \"iconceptonomina\": \"AFP\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"12\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30000\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"7\"\n                            },\n                            {\n                                \"iconceptonomina\": \"AFPFINA\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30005\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"8\"\n                            },\n                            {\n                                \"iconceptonomina\": \"EPS\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"8.5\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30010\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"9\"\n                            },\n                            {\n                                \"iconceptonomina\": \"ARL\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30020\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"10\"\n                            },\n                            {\n                                \"iconceptonomina\": \"CCF\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30030\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"11\"\n                            },\n                            {\n                                \"iconceptonomina\": \"CCFVC\",\n                                \"nconceptonomina\": \"Caja Compensación Familiar (vacaciones compensad. en dinero)\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30031\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"12\"\n                            },\n                            {\n                                \"iconceptonomina\": \"SENA\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"2\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30040\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"13\"\n                            },\n                            {\n                                \"iconceptonomina\": \"ICBF\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"3\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30050\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"14\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_VACAC\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"4.16666666666667\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30500\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"15\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_CESAN\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"8.33333333333333\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30510\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"16\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_PRIMA_L\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"8.33333333333333\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30520\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"17\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_INT_CES\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"12\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"31510\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"18\"\n                            }\n                        ],\n                        \"formapago\": {\n                            \"mtotalreg\": \"663671.8600\",\n                            \"mtotalpago\": \"663671.8600\",\n                            \"fpagocaja\": [\n                                {\n                                    \"icuenta\": \"11050503\",\n                                    \"init\": \"\",\n                                    \"icc\": \"\",\n                                    \"itipotransaccion\": \"\",\n                                    \"itransaccion\": \"\",\n                                    \"iflujoefec\": \"170\",\n                                    \"beditvrotramoneda\": \"F\",\n                                    \"id\": \"1\",\n                                    \"ilineamov\": \"1\",\n                                    \"mvalor\": \"663671.86\",\n                                    \"mvrotramoneda\": \"0\"\n                                }\n                            ],\n                            \"fpagobanco\": [],\n                            \"fpagocxp\": [],\n                            \"fpagoamortcxc\": []\n                        }\n                    },\n                    \"qoprsok\": \"0\"\n                }\n            }\n        }\n    ]\n}"
-								}
-							]
-						},
-						{
-							"name": "NPG306 Procesar",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"id": "f3e6cc6b-86e1-4801-b6b2-9814618ee4be",
-										"exec": [
-											"\r",
-											"let jResponse = JSON.parse(responseBody);\r",
-											"if (jResponse && jResponse.result)\r",
-											"\tjResponse = jResponse.result[0];\r",
-											"\r",
-											"if (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\tpm.visualizer.set(jResponse.respuesta.datos.resultado?.map(obj => obj.bitacora).join(\"<hr/><hr/>\"));\r",
-											"else pm.visualizer.set(jResponse.respuesta.datos.bitacora);\r",
-											"\r",
-											"\r",
-											"pm.test(\"errores del objeto datos es igual a '0'\", function () {\r",
-											"\tif (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\t\tjResponse.respuesta.datos.resultado?.map(obj => pm.expect(obj.errores).to.equal(\"0\"))\r",
-											"\telse pm.expect(jResponse.respuesta.datos.errores).to.equal(\"0\");\r",
-											"});\r",
-											"\r",
-											"pm.test(\"advertencias es un string que representa un número\", function () {\r",
-											"if (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\t\tjResponse.respuesta.datos.resultado?.map(obj => pm.expect(obj.advertencias).to.be.a('string').and.to.match(/^\\d+$/))\r",
-											"\telse pm.expect(jResponse.respuesta.datos.advertencias).to.be.a('string').and.to.match(/^\\d+$/);\r",
-											"});\r",
-											"\r",
-											"pm.test(\"bitacora es un código HTML\", function () {\r",
-											"if (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\t\tjResponse.respuesta.datos.resultado?.map(obj => pm.expect(obj.bitacora).to.match(/<.*>/))\r",
-											"\telse pm.expect(jResponse.respuesta.datos.bitacora).to.match(/<.*>/);\r",
-											"});"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								},
-								{
-									"listen": "prerequest",
-									"script": {
-										"id": "298fea01-41fb-4bda-b116-90fa8f493e1e",
-										"exec": [
-											""
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"id": "0c3622cf-29a5-42b6-a0e1-f46099605e1e",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG306\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-							},
-							"response": [
-								{
-									"id": "288b1bf0-19c2-4608-bc86-cfc81f1e3480",
-									"name": "Procesar operación",
-									"originalRequest": {
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"inumoper\":\"{{ULTIMOINUMOPER}}\",\r\n                    \"itdoper\": \"NOM4\"\r\n                }\r\n            ]            \r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
-										{
-											"key": "Connection",
-											"value": "close"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json"
-										},
-										{
-											"key": "Content-Length",
-											"value": "3039"
-										},
-										{
-											"key": "Date",
-											"value": "Tue, 26 Sep 2023 15:41:20 GMT"
-										},
-										{
-											"key": "is-date-in",
-											"value": "2023-09-26T10:41:20.291-05:00"
-										},
-										{
-											"key": "access-control-allow-origin",
-											"value": "*"
-										},
-										{
-											"key": "access-control-allow-headers",
-											"value": "If-Modified-Since,Pragma"
-										},
-										{
-											"key": "Access-Control-Allow-Methods",
-											"value": "GET, POST, PUT, DELETE"
-										},
-										{
-											"key": "Pragma",
-											"value": "dssession=981415.248493.25834,dssessionexpires=1200000"
-										},
-										{
-											"key": "is-date-out",
-											"value": "2023-09-26T10:41:20.418-05:00"
-										},
-										{
-											"key": "is-timeserver",
-											"value": "127"
-										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"result\": [\n        {\n            \"encabezado\": {\n                \"resultado\": \"true\",\n                \"imensaje\": \"\",\n                \"mensaje\": \"\",\n                \"tiempo\": \"106\",\n                \"version\": \"1\"\n            },\n            \"respuesta\": {\n                \"datos\": {\n                    \"resultado\": \"T\",\n                    \"errores\": \"0\",\n                    \"advertencias\": \"8\",\n                    \"bitacora\": \"<body bgcolor=\\\"#CCCCCC\\\"><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Verificación . . .</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\"></span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Deducción Aporte salud empleado: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Deducción Aporte pensión empleado: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes pensión empleador: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes salud empleador: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes ARL: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aportes Cajas Compensación Familiar: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Provisión Aporte pensión empleado financiada por ausencia no remunerad: </span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado la cantidad para la novedad de nómina.</span></font><br><font face=\\\"Tahoma\\\" color=\\\"blue\\\"><span style=\\\"font-size:16px\\\">- No se ha indicado las fechas para la novedad de nómina.</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Proceso . . .</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\"></span></font><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Forma de pago</span></font><br><br><font face=\\\"Tahoma\\\" color=\\\"black\\\"><span style=\\\"font-size:16px\\\">Se detectaron 8 inconsistencias.</span></font><br><br></body>\",\n                    \"qoprsok\": \"1\"\n                }\n            }\n        }\n    ]\n}"
-								}
-							]
-						},
-						{
-							"name": "NPG307 Recalcula valores",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"id": "f3e6cc6b-86e1-4801-b6b2-9814618ee4be",
-										"exec": [
-											""
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"id": "60264b8b-5e6c-439c-a1b5-c3d60297eeb2",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG307\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-							},
-							"response": [
-								{
-									"id": "788ea72d-9218-47cc-b411-ccea4cd8aa34",
-									"name": "Recalculo de operacion",
-									"originalRequest": {
-										"method": "POST",
-										"header": [],
-										"body": {
-											"mode": "raw",
-											"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CARGARYGRABARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"inumoper\":\"{{ULTIMOINUMOPER}}\",\r\n                    \"itdoper\": \"NOM4\"\r\n                }\r\n            ]            \r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-											"options": {
-												"raw": {
-													"language": "json"
-												}
-											}
-										},
-										"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-									},
-									"status": "OK",
-									"code": 200,
-									"_postman_previewlanguage": "json",
-									"header": [
-										{
-											"key": "Connection",
-											"value": "close"
-										},
-										{
-											"key": "Content-Type",
-											"value": "application/json"
-										},
-										{
-											"key": "Content-Length",
-											"value": "8421"
-										},
-										{
-											"key": "Date",
-											"value": "Wed, 27 Sep 2023 15:38:55 GMT"
-										},
-										{
-											"key": "is-date-in",
-											"value": "2023-09-27T10:38:50.239-05:00"
-										},
-										{
-											"key": "access-control-allow-origin",
-											"value": "*"
-										},
-										{
-											"key": "access-control-allow-headers",
-											"value": "If-Modified-Since,Pragma"
-										},
-										{
-											"key": "Access-Control-Allow-Methods",
-											"value": "GET, POST, PUT, DELETE"
-										},
-										{
-											"key": "Pragma",
-											"value": "dssession=611256.33783.734275,dssessionexpires=1200000"
-										},
-										{
-											"key": "is-date-out",
-											"value": "2023-09-27T10:38:55.492-05:00"
-										},
-										{
-											"key": "is-timeserver",
-											"value": "5253"
-										}
-									],
-									"cookie": [],
-									"responseTime": null,
-									"body": "{\n    \"result\": [\n        {\n            \"encabezado\": {\n                \"resultado\": \"true\",\n                \"imensaje\": \"\",\n                \"mensaje\": \"\",\n                \"tiempo\": \"5223\",\n                \"version\": \"1\"\n            },\n            \"respuesta\": {\n                \"datos\": {\n                    \"resultado\": {\n                        \"encabezado\": {\n                            \"tdetalle\": \"Pago nómina mes 12 de 2022\",\n                            \"itdoper\": \"NOM4\",\n                            \"snumsop\": \"NPG47\",\n                            \"fsoport\": \"12/27/2022\",\n                            \"iccbase\": \"\",\n                            \"imoneda\": \"170\",\n                            \"banulada\": \"F\",\n                            \"blocal\": \"T\",\n                            \"bniif\": \"T\",\n                            \"svaloradic1\": \"\",\n                            \"svaloradic2\": \"\",\n                            \"svaloradic3\": \"\",\n                            \"svaloradic4\": \"\",\n                            \"svaloradic5\": \"\",\n                            \"svaloradic6\": \"\",\n                            \"svaloradic7\": \"\",\n                            \"svaloradic8\": \"\",\n                            \"svaloradic9\": \"\",\n                            \"svaloradic10\": \"\",\n                            \"svaloradic11\": \"\",\n                            \"svaloradic12\": \"\",\n                            \"fecha1adic\": \"12/30/1899\",\n                            \"fecha2adic\": \"12/30/1899\",\n                            \"fecha3adic\": \"12/30/1899\",\n                            \"datosaddin\": \"\",\n                            \"fcreacion\": \"12/27/2022\",\n                            \"fultima\": \"09/26/2023\",\n                            \"fprocesam\": \"09/27/2023 10:31:34.836\",\n                            \"iusuario\": \"SCALLE\",\n                            \"iusuarioult\": \"ADMIN\",\n                            \"isucursal\": \"\",\n                            \"inumoperultimp\": \"\",\n                            \"bespadre\": false,\n                            \"bconfirmaenviofe\": false,\n                            \"accionesalgrabar\": \"\",\n                            \"iemp\": \"1\",\n                            \"inumoper\": \"1204\",\n                            \"itdsop\": \"750\",\n                            \"inumsop\": \"47\",\n                            \"iclasifop\": \"0\",\n                            \"iprocess\": \"0\",\n                            \"inumoperpadre\": \"0\",\n                            \"mtotaloperacion\": \"663671.86\"\n                        },\n                        \"datosprincipales\": {\n                            \"init\": \"14856296\",\n                            \"icontrato\": \"CTR-002\",\n                            \"fini\": \"2022-12-16T00:00:00.000Z\",\n                            \"ffin\": \"2022-12-31T00:00:00.000Z\",\n                            \"qregabonocxc\": \"0\"\n                        },\n                        \"listaabonoscxc\": [],\n                        \"conceptos\": [\n                            {\n                                \"iconceptonomina\": \"SALARIO\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"10\",\n                                \"itdcomportamiento\": \"1\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"1\"\n                            },\n                            {\n                                \"iconceptonomina\": \"AUX_LEG_TR\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"4686.86666666667\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"20\",\n                                \"itdcomportamiento\": \"1\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"2\"\n                            },\n                            {\n                                \"iconceptonomina\": \"INT_CESAN\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"360\",\n                                \"mvalorbase\": \"480.202\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"172872.72\",\n                                \"iconceptodian\": \"170\",\n                                \"itdcomportamiento\": \"2\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"3\"\n                            },\n                            {\n                                \"iconceptonomina\": \"CESANTIAS\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"1440606\",\n                                \"iconceptodian\": \"31000\",\n                                \"itdcomportamiento\": \"2\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"4\"\n                            },\n                            {\n                                \"iconceptonomina\": \"DTO_SALUD\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"460\",\n                                \"itdcomportamiento\": \"3\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"5\"\n                            },\n                            {\n                                \"iconceptonomina\": \"DTO_PENS\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"470\",\n                                \"itdcomportamiento\": \"3\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"6\"\n                            },\n                            {\n                                \"iconceptonomina\": \"AFP\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"12\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30000\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"7\"\n                            },\n                            {\n                                \"iconceptonomina\": \"AFPFINA\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30005\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"8\"\n                            },\n                            {\n                                \"iconceptonomina\": \"EPS\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"8.5\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30010\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"9\"\n                            },\n                            {\n                                \"iconceptonomina\": \"ARL\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"43333.3333333333\",\n                                \"qporcentaje\": \"0\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30020\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"10\"\n                            },\n                            {\n                                \"iconceptonomina\": \"CCF\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30030\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"11\"\n                            },\n                            {\n                                \"iconceptonomina\": \"CCFVC\",\n                                \"nconceptonomina\": \"Caja Compensación Familiar (vacaciones compensad. en dinero)\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"4\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30031\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"12\"\n                            },\n                            {\n                                \"iconceptonomina\": \"SENA\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"2\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30040\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"13\"\n                            },\n                            {\n                                \"iconceptonomina\": \"ICBF\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"3\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30050\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"14\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_VACAC\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"4.16666666666667\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30500\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"15\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_CESAN\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"8.33333333333333\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30510\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"16\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_PRIMA_L\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"8.33333333333333\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"30520\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"17\"\n                            },\n                            {\n                                \"iconceptonomina\": \"PR_INT_CES\",\n                                \"nconceptonomina\": \"\",\n                                \"icc\": \"210103\",\n                                \"nunidad\": \"\",\n                                \"fini\": \"1899-12-30T00:00:00.000Z\",\n                                \"ffin\": \"1899-12-30T00:00:00.000Z\",\n                                \"inumsopref\": \"CONTRATO\",\n                                \"sobserv\": \"\",\n                                \"bshowformaterror\": true,\n                                \"bsavetostream\": false,\n                                \"qcantidad\": \"0\",\n                                \"mvalorbase\": \"0\",\n                                \"qporcentaje\": \"12\",\n                                \"mvalor\": \"0\",\n                                \"iconceptodian\": \"31510\",\n                                \"itdcomportamiento\": \"4\",\n                                \"itdgrid\": \"99\",\n                                \"ilinea\": \"18\"\n                            }\n                        ],\n                        \"formapago\": {\n                            \"mtotalreg\": \"663671.8600\",\n                            \"mtotalpago\": \"663671.8600\",\n                            \"fpagocaja\": [\n                                {\n                                    \"icuenta\": \"11050503\",\n                                    \"init\": \"\",\n                                    \"icc\": \"\",\n                                    \"itipotransaccion\": \"\",\n                                    \"itransaccion\": \"\",\n                                    \"iflujoefec\": \"170\",\n                                    \"beditvrotramoneda\": \"F\",\n                                    \"id\": \"1\",\n                                    \"ilineamov\": \"1\",\n                                    \"mvalor\": \"663671.86\",\n                                    \"mvrotramoneda\": \"0\"\n                                }\n                            ],\n                            \"fpagobanco\": [],\n                            \"fpagocxp\": [],\n                            \"fpagoamortcxc\": []\n                        }\n                    },\n                    \"qoprsok\": \"0\"\n                }\n            }\n        }\n    ]\n}"
-								}
-							]
-						},
-						{
-							"name": "NPG307 Procesar",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"id": "f3e6cc6b-86e1-4801-b6b2-9814618ee4be",
-										"exec": [
-											"\r",
-											"let jResponse = JSON.parse(responseBody);\r",
-											"if (jResponse && jResponse.result)\r",
-											"\tjResponse = jResponse.result[0];\r",
-											"\r",
-											"if (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\tpm.visualizer.set(jResponse.respuesta.datos.resultado?.map(obj => obj.bitacora).join(\"<hr/><hr/>\"));\r",
-											"else pm.visualizer.set(jResponse.respuesta.datos.bitacora);\r",
-											"\r",
-											"\r",
-											"pm.test(\"errores del objeto datos es igual a '0'\", function () {\r",
-											"\tif (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\t\tjResponse.respuesta.datos.resultado?.map(obj => pm.expect(obj.errores).to.equal(\"0\"))\r",
-											"\telse pm.expect(jResponse.respuesta.datos.errores).to.equal(\"0\");\r",
-											"});\r",
-											"\r",
-											"pm.test(\"advertencias es un string que representa un número\", function () {\r",
-											"if (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\t\tjResponse.respuesta.datos.resultado?.map(obj => pm.expect(obj.advertencias).to.be.a('string').and.to.match(/^\\d+$/))\r",
-											"\telse pm.expect(jResponse.respuesta.datos.advertencias).to.be.a('string').and.to.match(/^\\d+$/);\r",
-											"});\r",
-											"\r",
-											"pm.test(\"bitacora es un código HTML\", function () {\r",
-											"if (Array.isArray(jResponse.respuesta.datos?.resultado)) \r",
-											"\t\tjResponse.respuesta.datos.resultado?.map(obj => pm.expect(obj.bitacora).to.match(/<.*>/))\r",
-											"\telse pm.expect(jResponse.respuesta.datos.bitacora).to.match(/<.*>/);\r",
-											"});"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								},
-								{
-									"listen": "prerequest",
-									"script": {
-										"id": "298fea01-41fb-4bda-b116-90fa8f493e1e",
-										"exec": [
-											""
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"id": "5e4a05c5-19e6-4487-824b-65d8b7da9e0b",
-							"protocolProfileBehavior": {
-								"disableBodyPruning": true
-							},
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG307\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": "http://{{HOST}}:{{PORT}}/datasnap/rest/TCatOperaciones/\"DoExecuteOprAction\"/"
-							},
-							"response": [
-								{
-									"id": "02c589e2-bbe9-4085-974f-d9836235c375",
 									"name": "Procesar operación",
 									"originalRequest": {
 										"method": "POST",
