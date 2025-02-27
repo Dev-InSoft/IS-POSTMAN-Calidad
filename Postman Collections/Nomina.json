@@ -13339,7 +13339,7 @@
 							]
 						},
 						{
-							"name": "NPG4 Recalcula valores Copy",
+							"name": "NPG79 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -13362,7 +13362,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG4\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG79\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -13445,7 +13445,7 @@
 							]
 						},
 						{
-							"name": "NPG4 Procesar Copy",
+							"name": "NPG79 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -13505,7 +13505,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG4\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG79\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -13588,7 +13588,7 @@
 							]
 						},
 						{
-							"name": "NPG31 Recalcula valores Copy",
+							"name": "NPG119 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -13611,7 +13611,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG31\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG119\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -13694,7 +13694,7 @@
 							]
 						},
 						{
-							"name": "NPG31 Procesar Copy",
+							"name": "NPG119 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -13754,7 +13754,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG31\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG119\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -13837,7 +13837,7 @@
 							]
 						},
 						{
-							"name": "NPG32 Recalcula valores Copy",
+							"name": "NPG120 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -13860,7 +13860,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG32\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG120\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -13943,7 +13943,7 @@
 							]
 						},
 						{
-							"name": "NPG32 Procesar Copy",
+							"name": "NPG120 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -14003,7 +14003,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG32\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG120\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -14086,7 +14086,7 @@
 							]
 						},
 						{
-							"name": "NPG33 Recalcula valores Copy",
+							"name": "NPG289 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -14109,7 +14109,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG33\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG289\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -14192,7 +14192,7 @@
 							]
 						},
 						{
-							"name": "NPG33 Procesar Copy",
+							"name": "NPG289 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -14252,7 +14252,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG33\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG289\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -14335,7 +14335,7 @@
 							]
 						},
 						{
-							"name": "NPG34 Recalcula valores Copy",
+							"name": "NPG295 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -14358,7 +14358,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG34\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG295\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -14441,7 +14441,7 @@
 							]
 						},
 						{
-							"name": "NPG34  Procesar Copy",
+							"name": "NPG295 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -14501,7 +14501,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG34\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG295\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
