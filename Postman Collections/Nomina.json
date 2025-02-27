@@ -8754,7 +8754,7 @@
 					"name": "2. Ejecutar acciones",
 					"item": [
 						{
-							"name": "NPG1 Recalcula valores",
+							"name": "NPG2 Recalcula valores",
 							"event": [
 								{
 									"listen": "test",
@@ -8777,7 +8777,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG1\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"CALCULARCONCEPTOS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG2\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -8860,7 +8860,7 @@
 							]
 						},
 						{
-							"name": "NPG1 Procesar",
+							"name": "NPG2 Procesar",
 							"event": [
 								{
 									"listen": "test",
@@ -8920,7 +8920,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG1\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
+									"raw": "{\r\n    \"_parameters\": [\r\n        {\r\n            \"accion\": \"PROCESS\",\r\n            \"operaciones\": [\r\n                {\r\n                    \"snumsop\": \"NPG2\"\r\n                }\r\n            ]\r\n        },\r\n        \"{{CONTROLKEY}}\",\r\n        \"{{IAPP}}\",\r\n        \"0\"\r\n    ]\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"
